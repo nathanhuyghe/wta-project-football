@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/ff758bb7-c393-4631-8f50-0a55e00e4854/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/wta-project-football",
+  "appService.deploySubpath": "."
+}
